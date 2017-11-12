@@ -1,1 +1,1 @@
-# card_view_slide
+# swipe_card_view
